@@ -103,9 +103,10 @@ a {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .page-main {
   display: flex;
-  background-image: url("img/bgTile.png");
-  background-size: 50px, 50px;
-  background-repeat: repeat;
+  background-color: linear-gradient(black, fuchsia, magenta, indigo, midnightblue, midnightblue, midnightblue, aqua);
+  background-image: url("img/Website_Gradient_Backgrounds_0006_Kacheln_invertiert_transparent.png");
+  background-size: cover;
+  background-repeat: no-repeat;
   flex-direction: column;
   flex-grow: 1;
   min-height: 350px;
