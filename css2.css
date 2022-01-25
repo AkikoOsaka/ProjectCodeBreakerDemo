@@ -103,8 +103,8 @@ a {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .page-main {
   display: flex;
-  background-color: linear-gradient(black, fuchsia, magenta, indigo, midnightblue, midnightblue, midnightblue, aqua);
-  background-image: url("img/Website_Gradient_Backgrounds_0006_Kacheln_invertiert_transparent.png");
+ /*  background-color: linear-gradient(black, fuchsia, magenta, indigo, midnightblue, midnightblue, midnightblue, aqua);*/
+  background-image: linear-gradient(black, fuchsia, magenta, indigo, midnightblue, midnightblue, midnightblue, aqua) url("img/Website_Gradient_Backgrounds_0006_Kacheln_invertiert_transparent.png");
   background-size: cover;
   background-repeat: no-repeat;
   flex-direction: column;
