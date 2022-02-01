@@ -109,7 +109,7 @@ a {
   background-size: cover;
   background-repeat: no-repeat;
 	-webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
-        -moz-animation: fadein 2s;
+        -moz-animation: fadein 10s;
   flex-direction: column;
   flex-grow: 1;
   min-height: 350px;
