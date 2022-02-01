@@ -110,7 +110,7 @@ a {
   background-repeat: no-repeat;
 	-webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
         -moz-animation: fadein 10s;
-	animation: fadein 10s;
+	animation: fadein 3s;
 	
 
   flex-direction: column;
