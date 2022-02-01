@@ -112,6 +112,13 @@ a {
         -moz-animation: fadein 10s;
 	animation: fadein 10s;
 	
+
+  flex-direction: column;
+  flex-grow: 1;
+  min-height: 350px;
+  background-blend-mode: overlay;
+
+}
 @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
@@ -139,12 +146,6 @@ a {
 @-o-keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
-}
-  flex-direction: column;
-  flex-grow: 1;
-  min-height: 350px;
-  background-blend-mode: overlay;
-
 }
 
 #content {
